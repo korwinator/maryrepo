@@ -1,1 +1,2 @@
 # maryrepo
+koniec lekcji
